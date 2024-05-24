@@ -1,0 +1,24 @@
+.App-content {
+  padding: 20px;
+}
+
+.App-content form {
+  margin-bottom: 20px;
+}
+
+.category {
+  margin-top: 20px;
+}
+
+.category h2 {
+  font-size: 1.5em;
+}
+
+.category ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.category li {
+  margin-bottom: 10px;
+}

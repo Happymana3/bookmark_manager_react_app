@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Bookmark Manager",
+  "description": "A simple bookmark manager",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "cute-cat-images-download-7.png"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
+
